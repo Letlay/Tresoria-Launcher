@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Tresoria Launcher",
+    "preductname": "Tresoria Launcher",
     "version": "1.0.2",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "description": "Tresoria Launcher",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "url": "https://tresorialauncher.000webhostapp.com/",
     "engines": {
         "node": "16.x.x"
     },
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Letlay/Tresoria-Launcher.git"
     }
 }
