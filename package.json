@@ -4,7 +4,7 @@
     "version": "1.0.2",
     "description": "Tresoria Launcher",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "Luuxis, iFinity Project",
     "url": "https://tresorialauncher.000webhostapp.com/",
     "engines": {
         "node": "16.x.x"
